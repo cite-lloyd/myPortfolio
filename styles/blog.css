@@ -133,4 +133,9 @@
   .sidebar {
     display: none;
   }
+
+  .blog-text {
+  display: block;
+  width: 300px;
+}
 }
