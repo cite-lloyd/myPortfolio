@@ -94,7 +94,7 @@ body {
     overflow: hidden;
   }
 
-  .container button {
-    font-size: 10px;
+  .btn-hidden {
+    display: none;
   }
 }
