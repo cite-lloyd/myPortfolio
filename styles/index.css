@@ -93,4 +93,8 @@ body {
     gap: 10px;
     overflow: hidden;
   }
+
+  .container button {
+    font-size: 10px;
+  }
 }
